@@ -3,7 +3,7 @@ Code and data to accompany the academic journal article _"Towards an Everyday Na
 
 The paper is currently in review at Urban Forestry and Urban Greening.
 
-Code development was lead by Dr Casey Visintin, with input from Dr Holly Kirk and Dr Thami Croser.
+Code development was lead by Dr Casey Visintin, with input from Dr Holly Kirk.
 
 Please cite this as: 
 
